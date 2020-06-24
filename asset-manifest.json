@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bitcoin-rt-visualiser-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/bitcoin-rt-visualiser-react/static/js/main.91dfcc7f.chunk.js",
+    "main.js.map": "/bitcoin-rt-visualiser-react/static/js/main.91dfcc7f.chunk.js.map",
+    "runtime-main.js": "/bitcoin-rt-visualiser-react/static/js/runtime-main.0ecdb963.js",
+    "runtime-main.js.map": "/bitcoin-rt-visualiser-react/static/js/runtime-main.0ecdb963.js.map",
+    "static/js/2.afb09a8a.chunk.js": "/bitcoin-rt-visualiser-react/static/js/2.afb09a8a.chunk.js",
+    "static/js/2.afb09a8a.chunk.js.map": "/bitcoin-rt-visualiser-react/static/js/2.afb09a8a.chunk.js.map",
+    "index.html": "/bitcoin-rt-visualiser-react/index.html",
+    "precache-manifest.be4c339cd38ac961f781e82cd63343ae.js": "/bitcoin-rt-visualiser-react/precache-manifest.be4c339cd38ac961f781e82cd63343ae.js",
+    "service-worker.js": "/bitcoin-rt-visualiser-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/bitcoin-rt-visualiser-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.afb09a8a.chunk.js.LICENSE.txt": "/bitcoin-rt-visualiser-react/static/js/2.afb09a8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ecdb963.js",
+    "static/js/2.afb09a8a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.91dfcc7f.chunk.js"
+  ]
+}
